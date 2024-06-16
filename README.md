@@ -1,6 +1,6 @@
 
-<img width="166" alt="image" src="https://github.com/Vladimir-Batmanov/PyTorch-LifeStream/assets/45069495/4fb16285-381c-438f-b650-ab0142174356">
-<img width="275" alt="image" src="https://github.com/Vladimir-Batmanov/PyTorch-LifeStream/assets/45069495/a3c0fad6-bfa2-433a-a608-e4b4e0a398f2">
+<img width="200" alt="image" src="https://github.com/Vladimir-Batmanov/PyTorch-LifeStream/assets/45069495/4fb16285-381c-438f-b650-ab0142174356">
+<img width="270" alt="image" src="https://github.com/Vladimir-Batmanov/PyTorch-LifeStream/assets/45069495/a3c0fad6-bfa2-433a-a608-e4b4e0a398f2">
 
 
 
