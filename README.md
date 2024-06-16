@@ -1,4 +1,4 @@
-## Документация проекта
+<img width="944" alt="image" src="https://github.com/Vladimir-Batmanov/PyTorch-LifeStream/assets/45069495/56a4d770-4c6f-421f-bb67-1c7fac156480">## Документация проекта
 
 ---
 
@@ -310,8 +310,8 @@ best_model.fit(features, targets)
 
 ### Контакты
 
-- Telegram:@andrewaleev
-- Telegram:@andrewaleev
-- Telegram:@e_selishchevx
-- Telegram:@sush_385
-- Telegram:@monster2882
+- Telegram: Алеев Андрей Романович - (@andrewaleev)[https://t.me/andrewaleev]
+- Telegram: Батманов Владимир Андреевич - (@vbatmanov)[https://t.me/vbatmanov]
+- Telegram: Селищев Евгений Викторович - (@e_selishchevx)[https://t.me/e_selishchevx]
+- Telegram: Сушенцев Алексей Артемович - (@sush_385)[https://t.me/sush_385]
+- Telegram: Салаев Тимур Эльдарович - (@monster2882)[https://t.me/monster2882]
