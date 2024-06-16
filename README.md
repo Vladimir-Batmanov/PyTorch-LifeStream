@@ -1,4 +1,10 @@
-<img width="944" alt="image" src="https://github.com/Vladimir-Batmanov/PyTorch-LifeStream/assets/45069495/56a4d770-4c6f-421f-bb67-1c7fac156480">## Документация проекта
+
+<img width="166" alt="image" src="https://github.com/Vladimir-Batmanov/PyTorch-LifeStream/assets/45069495/4fb16285-381c-438f-b650-ab0142174356">
+<img width="275" alt="image" src="https://github.com/Vladimir-Batmanov/PyTorch-LifeStream/assets/45069495/a3c0fad6-bfa2-433a-a608-e4b4e0a398f2">
+
+
+
+## Документация проекта
 
 ---
 
