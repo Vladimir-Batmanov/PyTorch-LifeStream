@@ -276,10 +276,10 @@ best_model.fit(features, targets)
 **Результаты:**
 - ROC-AUC: 0.78
 - Accuracy: Значения для каждого из 4 таргетов:
-  - target_1: ---
-  - target_2: ---
-  - target_3: ---
-  - target_4: ---
+  - target_1: 0.9908534415260872
+  - target_2: 0.9987543597409069
+  - target_3: 0.9932023631575201
+  - target_4: 0.9927041070538828
 
 ---
 
