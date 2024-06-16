@@ -316,8 +316,8 @@ best_model.fit(features, targets)
 
 ### Контакты
 
-- Telegram: Алеев Андрей Романович - (@andrewaleev)[https://t.me/andrewaleev]
-- Telegram: Батманов Владимир Андреевич - (@vbatmanov)[https://t.me/vbatmanov]
-- Telegram: Селищев Евгений Викторович - (@e_selishchevx)[https://t.me/e_selishchevx]
-- Telegram: Сушенцев Алексей Артемович - (@sush_385)[https://t.me/sush_385]
-- Telegram: Салаев Тимур Эльдарович - (@monster2882)[https://t.me/monster2882]
+- Telegram: Алеев Андрей Романович - [@andrewaleev](https://t.me/andrewaleev)
+- Telegram: Батманов Владимир Андреевич - [@vbatmanov](https://t.me/vbatmanov)
+- Telegram: Селищев Евгений Викторович - [@e_selishchevx](https://t.me/e_selishchevx)
+- Telegram: Сушенцев Алексей Артемович - [@sush_385](https://t.me/sush_385)
+- Telegram: Салаев Тимур Эльдарович - [@monster2882](https://t.me/monster2882)
